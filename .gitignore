@@ -1,0 +1,3 @@
+config/prefs.rb
+deploy/hosts/*
+.vagrant/
