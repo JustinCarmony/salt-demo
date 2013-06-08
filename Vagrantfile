@@ -50,6 +50,61 @@ Vagrant.configure("2") do |config|
     web2.vm.box = "dummy"
   end
 
+  config.vm.define :web3 do |web3|
+    web3.vm.provider "aws" do |aws|
+      aws.tags = {
+        'Name' => 'salt-demo-web3'
+      }
+    end
+
+    web3.vm.provision :shell, :inline => "bash /vagrant/deploy/install-salt-minion.sh web3"
+    web3.vm.box = "dummy"
+  end
+
+  config.vm.define :web4 do |web4|
+    web4.vm.provider "aws" do |aws|
+      aws.tags = {
+        'Name' => 'salt-demo-web4'
+      }
+    end
+
+    web4.vm.provision :shell, :inline => "bash /vagrant/deploy/install-salt-minion.sh web4"
+    web4.vm.box = "dummy"
+  end
+
+  config.vm.define :web5 do |web5|
+    web5.vm.provider "aws" do |aws|
+      aws.tags = {
+        'Name' => 'salt-demo-web5'
+      }
+    end
+
+    web5.vm.provision :shell, :inline => "bash /vagrant/deploy/install-salt-minion.sh web5"
+    web5.vm.box = "dummy"
+  end
+
+  config.vm.define :web6 do |web6|
+    web6.vm.provider "aws" do |aws|
+      aws.tags = {
+        'Name' => 'salt-demo-web6'
+      }
+    end
+
+    web6.vm.provision :shell, :inline => "bash /vagrant/deploy/install-salt-minion.sh web6"
+    web6.vm.box = "dummy"
+  end
+
+  config.vm.define :web7 do |web7|
+    web7.vm.provider "aws" do |aws|
+      aws.tags = {
+        'Name' => 'salt-demo-web7'
+      }
+    end
+
+    web7.vm.provision :shell, :inline => "bash /vagrant/deploy/install-salt-minion.sh web7"
+    web7.vm.box = "dummy"
+  end
+
   config.vm.define :db do |db|
     db.vm.provider "aws" do |aws|
       aws.tags = {

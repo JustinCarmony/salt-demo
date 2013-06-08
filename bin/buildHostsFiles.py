@@ -8,7 +8,7 @@ import pprint
 os.chdir(os.path.dirname(os.path.realpath(__file__)) + '/../')
 print "Current Working Directory: " + os.getcwd()	
 
-server_names = ["master", "web1", "web2", "db", "lb"]
+server_names = ["master", "web1", "web2", "web3", "web4", "web5", "web6", "web7", "db", "lb"]
 
 server_ips = {}
 

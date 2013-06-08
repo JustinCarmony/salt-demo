@@ -3,10 +3,9 @@ base:
     - core
     - users
   'web*.saltdemo.com':
-  	- apache2
-  	- php5
+    - apache2
+    - php5
   'db.saltdemo.com':
-  	- mysql
+    - mysql
   'lb.saltdemo.com':
-  	- nginx
-  
+    - nginx

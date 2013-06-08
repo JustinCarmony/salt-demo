@@ -19,12 +19,12 @@ if [ ! -f /root/provision-finished.txt ]; then
 	ln -s /vagrant/saltstack/salt /srv/salt
 	ln -s /vagrant/saltstack/pillar /srv/pillar
 
+	cat /vagrant/deploy/config/master > /etc/salt/master
+	cat /vagrant/deploy/config/minion > /etc/salt/minion
+
+	/etc/init.d/salt-master restart
+	/etc/init.d/salt-minion restart
+
 	touch /root/provision-finished.txt
 fi
-
-cat /vagrant/deploy/config/master > /etc/salt/master
-cat /vagrant/deploy/config/minion > /etc/salt/minion
-
-/etc/init.d/salt-master restart
-/etc/init.d/salt-minion restart
 
