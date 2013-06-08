@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/jcarmony/vagrant/salt-demo"
+		}
+	],
+	"settings":
+	{
+        "draw_white_space": "all",
+		"tab_size": 4,
+		"translate_tabs_to_spaces": true
+	}
+}

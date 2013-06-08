@@ -1,0 +1,874 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"server",
+				"server_ips"
+			],
+			[
+				"ho",
+				"hosts_servers"
+			],
+			[
+				"prov",
+				"provision-finished"
+			],
+			[
+				"swit",
+				"switchOn"
+			],
+			[
+				"Che",
+				"CheckStatus"
+			],
+			[
+				"te",
+				"testFizzBuzz"
+			],
+			[
+				"php",
+				"php5_packages"
+			],
+			[
+				"pro",
+				"profile_helper"
+			],
+			[
+				"control",
+				"controlIPs"
+			],
+			[
+				"branch",
+				"branch_name"
+			],
+			[
+				"da",
+				"DADADA"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"branc",
+				"branch_name"
+			],
+			[
+				"bra",
+				"branch_name"
+			],
+			[
+				"is",
+				"is_confirmed"
+			],
+			[
+				"is_",
+				"is_good_branch"
+			],
+			[
+				"valid",
+				"validate_branch"
+			],
+			[
+				"dnews",
+				"dnews_branch_name"
+			],
+			[
+				"install",
+				"install_redis"
+			],
+			[
+				"chec",
+				"check_mk_dir"
+			],
+			[
+				"domains",
+				"domain_servers"
+			],
+			[
+				"nagi",
+				"nagios_hostgroups_contents"
+			],
+			[
+				"dom",
+				"domain_servers"
+			],
+			[
+				"domain",
+				"domain_name"
+			],
+			[
+				"sls",
+				"sls_name"
+			],
+			[
+				"srv",
+				"srv_name"
+			],
+			[
+				"servers",
+				"servers_sls"
+			],
+			[
+				"sr",
+				"srv_name"
+			],
+			[
+				"mun",
+				"munin_confd_dir"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "install-salt-master.sh",
+			"settings":
+			{
+				"buffer_size": 727,
+				"line_ending": "Unix",
+				"name": "#!/bin/bash"
+			}
+		},
+		{
+			"file": "salt-demo.sublime-project",
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/top.sls",
+			"settings":
+			{
+				"buffer_size": 149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/apache2/init.sls",
+			"settings":
+			{
+				"buffer_size": 68,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "- Chilaquiles\n- Bean & Cheese Burrito\n\n- Catina Chimichanga\n    - black beans\n    - cilantro rice\n\n- Chile Lime Shrimp Cocktail\n",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Unix",
+				"name": "- Chilaquiles"
+			}
+		},
+		{
+			"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/core/init.sls",
+			"settings":
+			{
+				"buffer_size": 226,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/mysql/init.sls",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/nginx/init.sls",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/php5/init.sls",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/users/init.sls",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jcarmony/vagrant/salt-demo/config/prefs.example.rb",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jcarmony/vagrant/salt-demo/README.md",
+			"settings":
+			{
+				"buffer_size": 730,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"hist",
+				"GitHub: History"
+			],
+			[
+				"histo",
+				"Git: Commit history"
+			],
+			[
+				"github",
+				"GitHub: History"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Controll",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Brows",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jcarmony/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jcarmony/vagrant/salt-demo/saltstack/salt/top.sls",
+		"/Users/jcarmony/vagrant/salt-demo/deploy/config/master",
+		"/Users/jcarmony/vagrant/salt-demo/deploy/config/minion",
+		"/Users/jcarmony/vagrant/salt-demo/deploy/install-salt-minion.sh",
+		"/Users/jcarmony/vagrant/salt-demo/bin/buildHostsFiles.sh",
+		"/Users/jcarmony/vagrant/salt-demo/bin/buildHostsFiles.py",
+		"/Users/jcarmony/vagrant/salt-demo/config/hosts.txt",
+		"/Users/jcarmony/vagrant/salt-demo/deploy/hosts_common",
+		"/Users/jcarmony/vagrant/salt-demo/deploy/hosts_servers",
+		"/Users/jcarmony/vagrant/salt-demo/Vagrantfile",
+		"/Users/jcarmony/vagrant/salt-demo/.gitignore",
+		"/Users/jcarmony/git/dnews/dnews-web-v3/.git/MERGE_MSG",
+		"/Users/jcarmony/git/dnews/dnews-intranet/.git/MERGE_MSG",
+		"/Users/jcarmony/git/github/PHP-Workers-Tutorial/vagrant/puppet/base.pp",
+		"/Users/jcarmony/git/dnews/dnews-vagrant/,.",
+		"/Users/jcarmony/git/dnews/dnews-dpi/.git/MERGE_MSG",
+		"/Users/jcarmony/git/dnews/dnews-vagrant/srv/dnlib/template.php",
+		"/Users/jcarmony/git/dnews/dnews-vagrant/Vagrantfile",
+		"/Users/jcarmony/git/dnews/dnews-vagrant/config/prefs.rb",
+		"/Users/jcarmony/git/dnews/dnews-web-v3/docroot/js/dn-article-video.js",
+		"/Users/jcarmony/git/dnews/dnews-web-v3/lib/templates/Content/ContentImage.tpl",
+		"/Users/jcarmony/git/dnews/dnews-web-v3/lib/templates/Content/ContentVideo.tpl",
+		"/Users/jcarmony/git/dnews/dnews-web-v3/lib/controllers/Section.php",
+		"/Users/jcarmony/git/dnews/dnews-web-v3/docroot/js/dn-page-header-nav.js",
+		"/Users/jcarmony/git/dnews/dnews-web-v3/lib/templates/PageHeader.tpl",
+		"/Users/jcarmony/git/dnews/dnews-web-v3/lib/templates/PageHeader",
+		"/Users/jcarmony/git/banemud/vagrant/manifests/base.pp",
+		"/Users/jcarmony/git/banemud/vagrant/files/var/www/phpinfo.php",
+		"/Users/jcarmony/git/banemud/vagrant/files/scripts/install_xhprof.sh",
+		"/Users/jcarmony/git/banemud/vagrant/files/etc/php5/conf.d/xhprof.ini",
+		"/Users/jcarmony/git/banemud/vagrant/files/etc/apache2/apache2.conf",
+		"/Users/jcarmony/git/banemud/vagrant/files/etc/apache2/httpd.conf",
+		"/Users/jcarmony/git/banemud/vagrant/files/etc/apache2/ports.conf",
+		"/Users/jcarmony/git/banemud/vagrant/files/etc/apache2/sites-available/default",
+		"/Users/jcarmony/git/banemud/xhgui/INSTALL",
+		"/Users/jcarmony/git/banemud/config.php",
+		"/Users/jcarmony/git/banemud/bin/server.php",
+		"/Users/jcarmony/git/banemud/xhgui/config.php",
+		"/Users/jcarmony/git/banemud/vagrant/Vagrantfile",
+		"/Users/jcarmony/git/banemud/xhgui/external/footer.php",
+		"/Users/jcarmony/git/banemud/xhgui/external/header.php",
+		"/Users/jcarmony/git/dnews/dnews-web-v3/lib/components/Widget/Sports/TeamNextGame.php",
+		"/Users/jcarmony/git/dnews/dnews-web-v3/lib/templates/Widget/Sports/team-next-game.tpl",
+		"/Users/jcarmony/dev/dnews/home",
+		"/Users/jcarmony/git/dnews/desnews-vagrant/.git/MERGE_MSG",
+		"/Users/jcarmony/git/dnews/desnews-vagrant/Vagrantfile",
+		"/Users/jcarmony/git/dnews/desnews-vagrant/manifests/files/etc/nginx/sites-available/dpi.deseretnews.dev",
+		"/Users/jcarmony/git/dnews/desnews-vagrant/manifests/files/etc/nginx/sites-available/intranet.deseretnews.dev",
+		"/Users/jcarmony/git/dnews/desnews-vagrant/manifests/files/etc/nginx/sites-available/www.deseretnews.dev",
+		"/Users/jcarmony/git/dnews/desnews-vagrant/config/prefs.rb",
+		"/Users/jcarmony/git/evennia/evennia/game/gamesrc/commands/__init__.py",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/redis1.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/redis.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/init.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/core/nagios.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/nagios/check_redis",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/top.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/munin/plugins/redis2",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/munin/plugins/redis1",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/redis2.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/nanoz/files/primaryweb/relay.nanoz.net",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/nanoz/primaryweb.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/web/php5-fpm.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/munin/plugins/redis",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/munin/plugin-conf.d/redis",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/munin/plugin-conf.d/redis1",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/munin/plugin-conf.d/redis2",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/nagios/check_perl",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/salt/master.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/salt/files/master/nagios3/conf.d/services_nagios2.cfg",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/web/apache2.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/salt/files/master/nagios3/commands.cfg",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/salt/files/master/nagios3/conf.d/contacts_nagios2.cfg",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/salt/files/master/deploy/buildNagiosConfigs.php",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/salt/files/master/deploy/sendTxtMsg/sendTxtMsg.php",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/ddna/core.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/core/tools.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/init.d/redis1",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/init.d/redis2.sh",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/etc/redis1.conf",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/etc/redis2.conf",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/redis/files/installRedis.sh",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/core/munin.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/core/files/munin/checkPermissions.sh",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/web/files/nginx.conf",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/web/nginx.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/salt/files/master/deploy/buildMuninConfigs.php",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/salt/files/master/nagios3/cgi.cfg",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/salt/files/master/nagios3/nagios.cfg",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/core/files/nagios/installCheckMk.sh",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/salt/files/master/nagios3/conf.d/hostgroups_nagios2.cfg",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/core/files/nagios.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/web/files/munin/plugin-conf.d/nginx",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/core/files/munin/munin-node.conf",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/core/hosts.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/web/files/default",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/web/files/munin/nginx_status.pl",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/web/files/munin/nginx_combined_localhost",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/nanoz/hosts.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/nanoz/files/primaryweb/www.nanoz.net",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/nanoz/core.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/nanoz/files/primaryweb/deploy/pushLive.sh",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/nanoz/files/primaryweb/exportNew.sh",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/nanoz/files/primaryweb/pushLive.sh",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/core/users.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/web/files/php.ini",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/web/files/php5-fpm.conf",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/salt.sublime-project",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/core/init.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/web/php5.sls",
+		"/Users/justin/git/ddna/ddna_servers/dev1/salt/coretools.sls",
+		"/Users/justin/Library/Application Support/Sublime Text 2/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"x20",
+			"09",
+			"path",
+			".custom",
+			"config",
+			"  origin/",
+			"git branch -d",
+			"  ",
+			"origin/",
+			"deltaQuery",
+			"topic",
+			"ORder",
+			"===",
+			"=====",
+			"====",
+			"no_follow",
+			"  origin/",
+			"src=\"/",
+			"href=\"/",
+			"800x500",
+			"@media",
+			"img",
+			"%",
+			"width",
+			"zoom",
+			"image",
+			"index",
+			"85",
+			"info",
+			"do_production_push",
+			"animate",
+			"event",
+			"file",
+			"redis1",
+			"email",
+			"noti",
+			"_commands",
+			"external",
+			"auth"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"git push origin :",
+			"git branch -d ",
+			"git branch -d",
+			"git push origin :",
+			"gb2t ",
+			"src=\"http://www.deseretnews.com/",
+			"href=\"http://www.deseretnews.com/",
+			"redis2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "install-salt-master.sh",
+					"settings":
+					{
+						"buffer_size": 727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								652,
+								652
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#!/bin/bash",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "salt-demo.sublime-project",
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/top.sls",
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/apache2/init.sls",
+					"settings":
+					{
+						"buffer_size": 68,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"auto_name": "- Chilaquiles",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/core/init.sls",
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/mysql/init.sls",
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/nginx/init.sls",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/php5/init.sls",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/jcarmony/vagrant/salt-demo/saltstack/salt/users/init.sls",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/jcarmony/vagrant/salt-demo/config/prefs.example.rb",
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/jcarmony/vagrant/salt-demo/README.md",
+					"settings":
+					{
+						"buffer_size": 730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								730,
+								730
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.965846994536,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true
+}
